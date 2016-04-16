@@ -1,0 +1,101 @@
+ID,Title,Studio,Gross,Year,Genre
+1,Star Wars: The Force Awakens,Buena Vista,934940519,2015,Sci-Fi 
+2,Avatar,Fox,760507625,2009,Sci-Fi 
+3,Titanic,Paramount,658672302,1997,Romance 
+4,Jurassic World,Universal,652270625,2015,Horror
+5,Marvel's The Avengers,Buena Vista,623357910,2012,Superhero 
+6,The Dark Knight,Warner Bros.,534858444,2008,Superhero 
+7,Star Wars: Episode I - The Phantom Menace,Fox,474544677,1999,Sci-Fi 
+8,Star Wars,Fox,460998007,1977,Sci-Fi 
+9,Avengers: Age of Ultron,Buena Vista,459005868,2015,Superhero 
+10,The Dark Knight Rises,Warner Bros.,448139099,2012,Superhero 
+11,Shrek 2,DreamWorks,441226247,2004,Animation 
+12,E.T.: The Extra-Terrestrial,Universal,435110554,1982,Family  
+13,The Hunger Games: Catching Fire,Lionsgate,424668047,2013,Adventure 
+14,Pirates of the Caribbean: Dead Man's Chest,Buena Vista,423315812,2006,Adventure 
+15,The Lion King,Buena Vista,422783777,1994,Animation 
+16,Toy Story 3,Buena Vista,415004880,2010,Animation 
+17,Iron Man 3,Buena Vista,409013994,2013,Superhero 
+18,The Hunger Games,Lionsgate,408010692,2012,Adventure 
+19,Spider-Man,Sony,403706375,2002,Superhero 
+20,Jurassic Park,Universal,402453882,1993,Horror
+21,Transformers: Revenge of the Fallen,DreamWorks,402111870,2009,Sci-Fi 
+22,Frozen,Buena Vista,400738009,2013,Animation 
+23,Harry Potter and the Deathly Hallows Part 2,Warner Bros.,381011219,2011,Fantasy 
+24,Finding Nemo,Buena Vista,380843261,2003,Animation 
+25,Star Wars: Episode III - Revenge of the Sith,Fox,380270577,2005,Sci-Fi 
+26,The Lord of the Rings: The Return of the King,New Line,377845905,2003,Fantasy 
+27,Spider-Man 2,Sony,373585825,2004,Superhero 
+28,The Passion of the Christ,Newmarket,370782930,2004,Drama
+29,Despicable Me 2,Universal,368061265,2013,Animation 
+30,Inside Out,Buena Vista,356461711,2015,Animation 
+31,Deadpool,Fox,355108934,2016,Superhero 
+32,Furious 7,Universal,353007020,2015,Action 
+33,Transformers: Dark of the Moon,DreamWorks,352390543,2011,Sci-Fi 
+34,American Sniper,Warner Bros.,350126372,2014,Drama
+35,The Lord of the Rings: The Two Towers,New Line,342551365,2002,Fantasy 
+36,The Hunger Games: Mockingjay - Part 1,Lionsgate,337135885,2014,Adventure 
+37,Spider-Man 3,Sony,336530303,2007,Superhero 
+38,Minions,Universal,336045770,2015,Animation 
+39,Alice in Wonderland (2010),Buena Vista,334191110,2010,Family  
+40,Guardians of the Galaxy,Buena Vista,333176600,2014,Adventure 
+41,Forrest Gump,Paramount,330252182,1994,Drama
+42,Shrek the Third,DreamWorks,322719944,2007,Animation 
+43,Transformers,DreamWorks,319246193,2007,Sci-Fi 
+44,Iron Man,Paramount,318412101,2008,Superhero 
+45,Harry Potter and the Sorcerer's Stone,Warner Bros.,317575550,2001,Fantasy 
+46,Indiana Jones and the Kingdom of the Crystal Skull,Paramount,317101119,2008,Adventure 
+47,The Lord of the Rings: The Fellowship of the Ring,New Line,315544750,2001,Fantasy 
+48,Iron Man 2,Paramount,312433331,2010,Superhero 
+49,Star Wars: Episode II - Attack of the Clones,Fox,310676740,2002,Sci-Fi 
+50,Pirates of the Caribbean: At World's End,Buena Vista,309420425,2007,Adventure 
+51,Return of the Jedi,Fox,309306177,1983,Sci-Fi 
+52,Independence Day,Fox,306169268,1996,Sci-Fi 
+53,Pirates of the Caribbean: The Curse of the Black Pearl,Buena Vista,305413918,2003,Adventure 
+54,Skyfall,Sony,304360277,2012,Action 
+55,The Hobbit: An Unexpected Journey,New Line,303003568,2012,Fantasy 
+56,Harry Potter and the Half-Blood Prince,Warner Bros.,301959197,2009,Fantasy 
+57,The Twilight Saga: Eclipse,Summit Entertainment,300531751,2010,Romance 
+58,The Twilight Saga: New Moon,Summit Entertainment,296623634,2009,Romance 
+59,Harry Potter and the Deathly Hallows Part 1,Warner Bros.,295983305,2010,Fantasy 
+60,The Sixth Sense,Buena Vista,293506292,1999,Horror
+61,Up,Buena Vista,293004164,2009,Animation 
+62,Inception,Warner Bros.,292576195,2010,Action 
+63,The Twilight Saga: Breaking Dawn Part 2,Summit Entertainment,292324737,2012,Romance 
+64,Harry Potter and the Order of the Phoenix,Warner Bros.,292004738,2007,Fantasy 
+65,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Buena Vista,291710957,2005,Fantasy 
+66,Man of Steel,Warner Bros.,291045518,2013,Superhero 
+67,The Empire Strikes Back,Fox,290475067,1980,Sci-Fi 
+68,Harry Potter and the Goblet of Fire,Warner Bros.,290013036,2005,Fantasy 
+69,"Monsters, Inc.",Buena Vista,289916256,2001,Animation 
+70,Home Alone,Fox,285761243,1990,Family  
+71,The Hunger Games: Mockingjay - Part 2,Lionsgate,281723902,2015,Adventure 
+72,The Matrix Reloaded,Warner Bros.,281576461,2003,Sci-Fi 
+73,The Twilight Saga: Breaking Dawn Part 1,Summit Entertainment,281287133,2011,Romance 
+74,Meet the Fockers,Universal,279261160,2004,Comedy
+75,The Hangover,Warner Bros.,277322503,2009,Comedy
+76,Zootopia,Buena Vista,275939310,2016,Animation 
+77,Gravity,Warner Bros.,274092705,2013,Sci-Fi 
+78,Monsters University,Buena Vista,268492764,2013,Animation 
+79,Shrek,DreamWorks,267665011,2001,Animation 
+80,The Amazing Spider-Man,Sony,262030663,2012,Superhero 
+81,Harry Potter and the Chamber of Secrets,Warner Bros.,261988482,2002,Fantasy 
+82,Batman v Superman: Dawn of Justice,Warner Bros.,261457793,2016,Superhero 
+83,The Incredibles,Buena Vista,261441092,2004,Animation 
+84,How the Grinch Stole Christmas,Universal,260044825,2000,Family  
+85,Jaws,Universal,260000000,1975,Horror
+86,Captain America: The Winter Soldier,Buena Vista,259766572,2014,Superhero 
+87,The Hobbit: The Desolation of Smaug,New Line,258366855,2013,Fantasy 
+88,The LEGO Movie,Warner Bros.,257760692,2014,Animation 
+89,Star Trek,Paramount,257730019,2009,Sci-Fi 
+90,I Am Legend,Warner Bros.,256393010,2007,Horror
+91,The Blind Side,Warner Bros.,255959475,2009,Drama
+92,The Hobbit: The Battle of the Five Armies,New Line,255119788,2014,Fantasy 
+93,The Hangover Part II,Warner Bros.,254464305,2011,Comedy
+94,Despicable Me,Universal,251513985,2010,Animation 
+95,Batman,Warner Bros.,251188924,1989,Superhero 
+96,Night at the Museum,Fox,250863268,2006,Family  
+97,Men in Black,Sony,250690539,1997,Sci-Fi 
+98,Harry Potter and the Prisoner of Azkaban,Warner Bros.,249541069,2004,Fantasy 
+99,Raiders of the Lost Ark,Paramount,248159971,1981,Adventure 
+100,Toy Story 2,Buena Vista,245852179,1999,Animation 
